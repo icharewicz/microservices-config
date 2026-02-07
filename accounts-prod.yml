@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related production APIs - from Git"
+  message: "Welcome to EazyBank accounts related production APIs - from Git with RabbitMQ"
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
     email: "{cipher}8649ad611cc1512cb0abd2c4a11c765cd6d298ca807c66d8702ab9d6a64631dd622f90839da2984cd3c6db506a407133"
